@@ -1,3 +1,5 @@
+# 🚀 `HTTP GET github.com/joshMonarch - 200`
+
 ![Social banner for joshMonarch](https://github.com/joshMonarch/JoshMonarch/raw/main/banner.png)
 
 
@@ -12,6 +14,10 @@ I recently completed a Fullstack Bootcamp in 4Geeks Academy. There I gained hand
 I'm passionate about building web applications and eager to apply what I've learned in real-world projects. I'm currently looking for opportunities to grow as a developer and contribute to impactful projects.
 
 Thanks for visiting my profile!
+
+![image](https://media.tenor.com/6JptszQgCnkAAAAi/text-work.gif)
+
+---
 
 ### 🔨 Languages and Tools:
 | Category | Technologies                                                                                                   |
